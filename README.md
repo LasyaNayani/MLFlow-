@@ -1,4 +1,4 @@
-# MLFlow 
+# MLFlow Lecture Notes 
 
 # ADSP 32023 IP01 (Spring 2025)  
 ## Advanced Computer Vision with Deep Learning  
