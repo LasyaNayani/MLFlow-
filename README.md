@@ -12,3 +12,5 @@ The notebook demonstrates how to use MLflow for tracking machine learning experi
 
 Open and run the notebook in Google Colab here:  
 [Open in Colab](https://colab.research.google.com/drive/16HpwM3ucSiY1nApzheixQas4xPwCxV2y?usp=sharing)
+
+Happy learning!
