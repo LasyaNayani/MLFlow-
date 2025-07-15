@@ -8,7 +8,7 @@ I served as a Teaching Assistant (TA) for this course.
 
 The notebook demonstrates how to use MLflow for tracking machine learning experiments, with the EuroSAT dataset as an example.
 
-**How to use**
+**How to use : **
 
 Open and run the notebook in Google Colab here:  
 
